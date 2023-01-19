@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 paginate: false
 title : Ambeelabs 
 alt_title: "Ambeelabs"
