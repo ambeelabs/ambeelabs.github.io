@@ -36,7 +36,7 @@ algolia:
   powered_by: # true (default), false
 
 # Build settings
-markdown: GFM
+markdown: kmarkdown
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins: # previsously gems
   - jekyll-feed
