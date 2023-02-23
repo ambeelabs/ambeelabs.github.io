@@ -80,7 +80,6 @@ Some of the features include:
 ## Geospatial Data Science Catalog
 
 ![GitHub](https://img.shields.io/github/license/ambeelabs/geospatial_data_science_catalog?style=for-the-badge)
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/ambeelabs/aqicalc?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ambeelabs/geospatial_data_science_catalog?style=for-the-badge)
 
