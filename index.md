@@ -19,8 +19,15 @@ actions:
 
 ## aqicalc
 
-A library to convert between AQI value and pollutant concentration
-(µg/m³ or ppm) using the following algorithms:
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/aqicalc?style=for-the-badge)
+![PyPI - License](https://img.shields.io/pypi/l/aqicalc?style=for-the-badge)
+![PyPI](https://img.shields.io/pypi/v/aqicalc?style=for-the-badge)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/aqicalc?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/ambeelabs/aqicalc?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ambeelabs/aqicalc?style=for-the-badge)
+
+> A library to convert between AQI value and pollutant concentration
+> (µg/m³ or ppm) using the following algorithms:
 
 - United States Environmental Protection Agency (EPA)
 - China Ministry of Environmental Protection (MEP)
@@ -35,11 +42,20 @@ Forked from python-aqi library
 
 [PyPi](https://pypi.org/project/aqicalc/)
 
+---
+
 ## gspatial-plot
+
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/gspatial-plot?style=for-the-badge)
+![PyPI - License](https://img.shields.io/pypi/l/gspatial-plot?style=for-the-badge)
+![PyPI](https://img.shields.io/pypi/v/gspatial-plot?style=for-the-badge)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/gspatial-plot?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/ambeelabs/gspatial_plot?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ambeelabs/gspatial_plot?style=for-the-badge)
 
 ![](https://gspatial-plot.readthedocs.io/en/latest/_images/logo.png)
 
-A geospatial plotting library built on top of geopandas. The aim of this library is to simplify generation of various geospatial plot and provide a simple interface to various commonly used geospatial plot types.
+> A geospatial plotting library built on top of geopandas. The aim of this library is to simplify generation of various geospatial plot and provide a simple interface to various commonly used geospatial plot types.
 
 Some of the features include:
 
@@ -59,8 +75,15 @@ Some of the features include:
 
 [PyPi](https://pypi.org/project/gspatial-plot/)
 
+---
+
 ## Geospatial Data Science Catalog
 
-This project catalogs and organizes various open access resources for geospatial data science. The catalog is organized into libraries (for python), courses, datasets, websites, tools and github repos. This list is constantly being updated with new resources.
+![GitHub Repo stars](https://img.shields.io/github/stars/ambeelabs/aqicalc?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ambeelabs/geospatial_data_science_catalog?style=for-the-badge)
+
+> This project catalogs and organizes various open access resources for geospatial data science. The catalog is organized into libraries (for python), courses, datasets, websites, tools and github repos. This list is constantly being updated with new resources.
 
 [Github](https://github.com/ambeelabs/geospatial_data_science_catalog)
+
+---
