@@ -38,9 +38,9 @@ actions:
 
 Forked from python-aqi library
 
-[Github](https://github.com/ambeelabs/aqicalc)
+[<img title="" src="https://img.shields.io/badge/Github-aqicalc-%23339CA1?style=for-the-badge&logo=github" alt="Github">](https://github.com/ambeelabs/aqicalc)
 
-[PyPi](https://pypi.org/project/aqicalc/)
+[<img title="" src="https://img.shields.io/badge/PyPi-aqicalc-%23339CA1?style=for-the-badge&logo=pypi" alt="PyPi">](https://pypi.org/project/aqicalc/)
 
 ---
 
@@ -69,11 +69,11 @@ Some of the features include:
 
 - Provides functions for plotting bubbleplots, cartograms, heatmaps, spikemaps and densityplots
 
-[Github](https://github.com/ambeelabs/gspatial_plot)
+[<img title="" src="https://img.shields.io/badge/Github-gspatial_plot-%23339CA1?style=for-the-badge&logo=github" alt="Github">](https://github.com/ambeelabs/gspatial_plot)
 
-[Documentation](https://gspatial-plot.readthedocs.io/en/latest/)
+[<img title="" src="https://img.shields.io/badge/Docs-gspatial_plot-%23339CA1?style=for-the-badge&logo=readthedocs" alt="Docs">](https://gspatial-plot.readthedocs.io/en/latest/)
 
-[PyPi](https://pypi.org/project/gspatial-plot/)
+[<img title="" src="https://img.shields.io/badge/PyPi-gspatial_plot-%23339CA1?style=for-the-badge&logo=pypi" alt="PyPi">](https://pypi.org/project/gspatial-plot/)
 
 ---
 
@@ -84,6 +84,6 @@ Some of the features include:
 
 > This project catalogs and organizes various open access resources for geospatial data science. The catalog is organized into libraries (for python), courses, datasets, websites, tools and github repos. This list is constantly being updated with new resources.
 
-[Github](https://github.com/ambeelabs/geospatial_data_science_catalog)
+[<img title="" src="https://img.shields.io/badge/Github-geospatial_data_science_catalog-%23339CA1?style=for-the-badge&logo=github" alt="Github">](https://github.com/ambeelabs/geospatial_data_science_catalog)
 
 ---
